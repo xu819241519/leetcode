@@ -1,4 +1,4 @@
-package com.ladon.main;
+package com.landon.main;
 
 import com.landon.leetcode.LongestPalindromicSubString;
 import com.landon.leetcode.Median2SortedArrays;
