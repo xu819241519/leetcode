@@ -24,7 +24,7 @@ public class MergeSortedLists {
 	}
 	
 	public ListNode mergeKLists(ListNode[] lists) {
-		if(lists == null )
+		if(lists == null || lists.length == 0)
 			return null;
 		if(lists.length == 1)
 			return lists[0];
